@@ -9,7 +9,6 @@ bind
 bolt
 brltty
 btrfs-progs
-clonezilla
 cloud-init
 cryptsetup
 darkhttpd
@@ -140,15 +139,16 @@ plasmatube
 brave-bin
 quadrapassel
 firefox
-gimp
 timeshift
-inkscape
 gwenview
 firefox-i18n-ja
-libreoffice-fresh
-libreoffice-fresh-ja
+libreoffice-still
+libreoffice-still-ja
 power-profiles-daemon
 papirus-icon-theme
+packagekit-qt6
+flatpak
+fwupd
 
 #krypton
 
