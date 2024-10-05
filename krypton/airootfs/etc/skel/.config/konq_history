@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://www.google.co.jp/?gws_rd=ssl
+ComboIconCache[$e]=https://www.google.co.jp/?gws_rd=ssl,text-html

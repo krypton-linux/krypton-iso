@@ -1,0 +1,13 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/usr/share/archiso/configs/krypton/syslinux/splash.png
+Name1[$e]=splash.png
+
+[SideBar]
+InformationSplitterSizes=210,245
