@@ -30,7 +30,6 @@ f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
-gnu-netcat
 gpart
 gpm
 gptfdisk
@@ -135,18 +134,14 @@ dolphin
 kate
 ark
 spectacle
-plasmatube
 brave-bin
-quadrapassel
 firefox
-timeshift
 gwenview
 firefox-i18n-ja
 libreoffice-still
 libreoffice-still-ja
 power-profiles-daemon
 papirus-icon-theme
-packagekit-qt6
 flatpak
 fwupd
 
@@ -155,7 +150,6 @@ fwupd
 pipewire
 pipewire-pulse
 pavucontrol
-neovim
 noto-fonts-cjk
 fcitx5
 fcitx5-im
