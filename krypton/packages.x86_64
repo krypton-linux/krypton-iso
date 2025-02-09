@@ -162,5 +162,9 @@ archiso-calamares-config
 git
 go
 yay
+
+#Powerline
+
 ttf-hack-nerd
 powerline
+eza
