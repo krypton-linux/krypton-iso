@@ -10,4 +10,7 @@
     Arch Linuxベースで、シンプルでありながらLinux mintのように簡単に使えるLinuxディストロ。
   </a>
 </div>
-<img alt="Static Badge" src="https://img.shields.io/badge/Version%20Beta2-5dade2">
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Version%20Beta2-5dade2">
+  <img alt="Static Badge" src="https://img.shields.io/badge/License-GPL_3.0-blue">
+</div>
