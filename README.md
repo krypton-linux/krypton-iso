@@ -5,8 +5,9 @@
 </div>
 <br>
 
-{: align="center"}
-## Krypton Linux
+<div style="text-align: center;">
+    <h2>Krypton Linux</h2>
+</div>
 
 <div align="center">
   <a>
