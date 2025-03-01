@@ -4,7 +4,12 @@
   </a>
 </div>
 <br>
-<br>
+
+{: align="center"}
+## Krypton Linux
+
+* * *
+
 <div align="center">
   <a>
     Arch Linuxベースで、シンプルでありながらLinux mintのように簡単に使えるLinuxディストロ。
