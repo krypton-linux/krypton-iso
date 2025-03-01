@@ -3,11 +3,10 @@
     <img alt="krypton" src="https://raw.githubusercontent.com/krypton-linux/krypton-artworks/1919f2a6c6469d4175aead8751d2b09698ddbe6c/logo/logo.svg" width="60%" height="auto">
   </a>
 </div>
+
 <br>
 
-<div style="text-align: center;">
-    Krypton Linux
-</div>
+<center><h2>Krypton Linux</h2></center>
 
 <div align="center">
   <a>
