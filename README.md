@@ -10,4 +10,4 @@
     Arch Linuxベースで、シンプルでありながらLinux mintのように簡単に使えるLinuxディストロ。
   </a>
 </div>
-![Static Badge](https://img.shields.io/badge/Version%20Beta2-5dade2)
+<img alt="Static Badge" src="https://img.shields.io/badge/Version%20Beta2-5dade2">
