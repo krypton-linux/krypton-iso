@@ -6,7 +6,7 @@
 <br>
 
 <div style="text-align: center;">
-    <h2>Krypton Linux</h2>
+    Krypton Linux
 </div>
 
 <div align="center">
