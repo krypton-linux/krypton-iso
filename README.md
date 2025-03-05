@@ -7,6 +7,13 @@
 <br>
 
 <div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Version%20Beta2-5dade2">
+  <img alt="Static Badge" src="https://img.shields.io/badge/License-GPL_3.0-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ArchISO-5dade2">
+  <a href="https://krypton-linux.com"><img src="https://img.shields.io/badge/Go%20to%20homepage-5dade2"></a>
+</div>
+
+<div align="center">
     <h2>Krypton Linux</h2>
 </div>
 
@@ -58,9 +65,3 @@
   カレントディレクトリの下のoutディレクトリに生成された.isoファイルを、ISOイメージからインストールするのと同じ手順でインストールしてください。
 </div>
 
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Version%20Beta2-5dade2">
-  <img alt="Static Badge" src="https://img.shields.io/badge/License-GPL_3.0-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ArchISO-5dade2">
-  <a href="https://krypton-linux.com"><img src="https://img.shields.io/badge/Go%20to%20homepage-5dade2"></a>
-</div>
