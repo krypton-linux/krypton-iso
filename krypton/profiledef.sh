@@ -3,7 +3,7 @@
 
 iso_name="krypton"
 iso_label="ARCH_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="Itsuki0222 <https://github.com/Itsuki0222/krypton-linux>"
+iso_publisher="Itsuki0222 <https://itsuki0222.f5.si>"
 iso_application="Krypton Live/Install DVD"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
