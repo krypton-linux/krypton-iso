@@ -91,7 +91,6 @@ pv
 qemu-guest-agent
 refind
 reflector
-reiserfsprogs
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
@@ -163,5 +162,9 @@ archiso-calamares-config
 git
 go
 yay
+
+#Powerline
+
 ttf-hack-nerd
 powerline
+eza
