@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<br>
+# Krypton Linux
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Version%20Beta2-5dade2">
