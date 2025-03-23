@@ -4,8 +4,6 @@
   </a>
 </div>
 
-<div align="center"># Krypton Linux</div>
-
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Version%20Beta2-5dade2">
   <img alt="Static Badge" src="https://img.shields.io/badge/License-GPL_3.0-blue">
