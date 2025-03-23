@@ -34,7 +34,7 @@
 <div>
   releaseに貼ってあるリンクから、ISOイメージをダウンロードするのが簡単ですが、devブランチをビルドして使うことを推奨します。
 
-  <div align="center"><h5>ISOイメージからインストールする場合</h5></div align="center">
+  <div align="center">## ISOイメージからインストールする場合</div align="center">
 
   ISOイメージからインストールする場合は、Etcherなどのライティングソフトを使ってUSBメモリに焼いてください。
 
