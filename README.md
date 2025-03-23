@@ -19,7 +19,7 @@
 
 <div align="center">
   <a>
-    Arch Linuxベースで、シンプルでありながらLinux mintのように簡単に使えるLinuxディストロ。
+    Arch Linuxベース。高機能、Linux mintのように簡単に使えるLinuxディストロ。
   </a>
 
   Krypton Linuxは、Arch Linuxベースで、デスクトップにKDE Plasmaを使用しています。
