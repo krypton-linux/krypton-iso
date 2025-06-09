@@ -11,7 +11,7 @@
   <a href="https://krypton-linux.com"><img src="https://img.shields.io/badge/Go%20to%20homepage-5dade2"></a>
 </div>
 
-<h1>注意: このリポジトリは近いうちにKryptonISOに統合されます。また、最新のプロファイルはArchISOではビルドできず、KryptonISOでビルドする必要があります。</h1>
+<h1>注意: このリポジトリは近いうちにKryptonISOに統合されます。また、将来的にこのプロファイルはArchISOではビルドできず、KryptonISOでビルドしなければならなくなります。</h1>
 
 <div align="center">
     <h2>Krypton Linux</h2>
