@@ -1,24 +1,25 @@
-#/usr/bin/env bash
+#!/usr/bin/env bash
 
-work_dir="work"
+## Script to perform several important tasks before `mkarchiso` create filesystem image.
+
+set -e -u
 
 
-arch_chroot() {
-    arch-chroot "${work_dir}/x86_64/airootfs" /bin/bash -c "${1}"
-}
+## Fix Initrd Generation in Installed System
+cat > "/etc/mkinitcpio.d/linux.preset" <<- _EOF_
+	# mkinitcpio preset file for the 'linux' package
 
-do_merge() {
+	#ALL_config="/etc/mkinitcpio.conf"
+	ALL_kver="/boot/vmlinuz-linux"
 
-arch_chroot "$(cat << EOF
-pwd
-uname --all
-cd /etc
-sed -e "s|#ja_JP.UTF-8|ja_JP.UTF-8|" locale.gen
-sed -e "s|#en_US.UTF-8|en_US.UTF-8|" locale.gen
-locale-gen
-echo "LANG=ja_JP.UTF-8" > locale.conf
-EOF
-)"
-}
+	PRESETS=('default' 'fallback')
 
-do_merge
+	#default_config="/etc/mkinitcpio.conf"
+	default_image="/boot/initramfs-linux.img"
+	#default_options=""
+
+	#fallback_config="/etc/mkinitcpio.conf"
+	fallback_image="/boot/initramfs-linux-fallback.img"
+	#fallback_uki="/efi/EFI/Linux/arch-linux-fallback.efi"
+	fallback_options="-S autodetect"
+_EOF_
