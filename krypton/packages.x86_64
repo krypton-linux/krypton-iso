@@ -8,6 +8,7 @@ bcachefs-tools
 bind
 bolt
 brltty
+bluez
 btrfs-progs
 cloud-init
 cryptsetup
