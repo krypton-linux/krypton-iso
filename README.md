@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/krypton-linux/krypton-iso">
-    <img alt="krypton" src="https://raw.githubusercontent.com/krypton-linux/krypton-artworks/1919f2a6c6469d4175aead8751d2b09698ddbe6c/logo/logo.svg" width="60%" height="auto">
+    <img alt="krypton" src="https://raw.githubusercontent.com/krypton-linux/krypton-linux.com/3ea6c3f4b8b2e20971d3e3be76d0f80da76462a1/logo.svg" width="60%" height="auto">
   </a>
 </div>
 
